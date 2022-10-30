@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdamGobbs
 - 👀 I’m interested in music, philosophy, literature
 - 💞️ I'm not looking for collaboration yet.
-- 📫 How to reach me How to reach me gobsadam@gmail.com
+- 📫 How to reach me gobsadam@gmail.com
 
 <!---
 AdamGobbs/AdamGobbs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
